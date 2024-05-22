@@ -1,0 +1,4 @@
+QPLIB filter=lfs diff=lfs merge=lfs -text
+MM_benchmark/ filter=lfs diff=lfs merge=lfs -text
+*.mps filter=lfs diff=lfs merge=lfs -text
+*.QPS filter=lfs diff=lfs merge=lfs -text
