@@ -1,6 +1,5 @@
 # QP Datasets
-
-This repository includes 2 classic QP datasets used in our experiments for PDHCG algorithm.
+This repository includes 2 classic QP datasets used in our experiments for [PDHCG algorithm](https://github.com/Huangyc98/PDHCG.jl).
 
 - Maros–Mészáros benchmark [https://www.cuter.rl.ac.uk/Problems/marmes.html]
 - QPLIB [https://qplib.zib.de/]
